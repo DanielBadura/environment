@@ -1,7 +1,7 @@
 #!/bin/bash
 
-git config --global user.name "$ENV_GIT_USERNAME"
-git config --global user.email "$ENV_GIT_EMAIL"
+git config --global user.name "Daniel Badura"
+git config --global user.email "d.m.badura@googlemail.com"
 git config --global color.ui auto
 git config --global core.editor vim
 git config --global core.excludesfile '~/environment/files/gitignore'
